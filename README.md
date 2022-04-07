@@ -2,6 +2,8 @@
 
 Página para treinar a técnica de *mobile-first*
 
+Disponível em: https://guilhermebalog.github.io/balogram-vanilla/
+
 ## To-do
 
 - [x] Adicionar a fonte fira-code
@@ -11,5 +13,5 @@ Página para treinar a técnica de *mobile-first*
 - [x] Fazer o estilo do header
 - [x] Fazer o estilo do main (posicionar os cards)
 - [x] Fazer o estilo dos cards (efeito de hover)
-- [ ] Subir para o github
-- [ ] Publicar no github pages
+- [x] Subir para o github
+- [x] Publicar no github pages
